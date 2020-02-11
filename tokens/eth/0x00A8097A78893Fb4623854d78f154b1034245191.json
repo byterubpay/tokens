@@ -3,6 +3,7 @@
     "address": "0x00A8097A78893Fb4623854d78f154b1034245191",
     "decimals": 8,
     "name": "bZx Perpetual Long ETH-DAI 3x v2",
+    "type": "ERC20",
     "ens_address": "",
     "website": "https://bzx.network/",
     "logo": {
