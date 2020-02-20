@@ -1,10 +1,10 @@
 {
-  "symbol": "EXMR",
+  "symbol": "EBTR",
   "address": "0xc98e0639c6d2EC037A615341c369666B110e80E5",
   "decimals": 8,
-  "name": "eXMRcoin",
+  "name": "eBTRcoin",
   "ens_address": "",
-  "website": "https://exmr.io/",
+  "website": "https://ebtr.io/",
   "logo": {
     "src": "",
     "width": "",
@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "support@exmr.io",
+    "email": "support@ebtr.io",
     "url": ""
   },
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "https://www.facebook.com/exmrcoin/",
+    "facebook": "https://www.facebook.com/ebtrcoin/",
     "forum": "",
-    "github": "https://github.com/eXMRcoin/",
+    "github": "https://github.com/eBTRcoin/",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/user/eXMRcoin/",
+    "reddit": "https://www.reddit.com/user/eBTRcoin/",
     "slack": "",
-    "telegram": "https://t.me/joinEXMR/",
-    "twitter": "https://www.twitter.com/eXMRCoin",
+    "telegram": "https://t.me/joinEBTR/",
+    "twitter": "https://www.twitter.com/eBTRCoin",
     "youtube": ""
   }
 }
